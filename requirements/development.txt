@@ -1,0 +1,6 @@
+-r production.txt
+
+jedi
+isort
+black
+
